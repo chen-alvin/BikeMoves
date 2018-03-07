@@ -1,0 +1,27 @@
+{
+  "name": "bike-moves-js",
+  "version": "1.0.0",
+  "description": "node.js API for bike moves",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chen-alvin/bike-moves-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chen-alvin/bike-moves-js/issues"
+  },
+  "homepage": "https://github.com/chen-alvin/bike-moves-js#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mongodb": "^2.2.16"
+  },
+  "devDependencies": {
+    "nodemon": "^1.17.1"
+  }
+}
